@@ -1,0 +1,24 @@
+{
+  "name": "recommend-engine",
+  "version": "1.0.0",
+  "description": "Recommeding Engine originally developed for thevideotrain",
+  "main": "recommending-engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/recommend-engine.git"
+  },
+  "keywords": [
+    "recommend",
+    "recommending",
+    "recommending-engine"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/recommend-engine/issues"
+  },
+  "homepage": "https://github.com/greencoder001/recommend-engine#readme"
+}
