@@ -10,3 +10,7 @@ const averageScore = item1.getAverageScore(item2)
 console.log('Similarity:', similarity)
 console.log('Highest scoring keyword:', highestScoringKeyword)
 console.log('Average Score:', averageScore)
+
+// TODO: Compare title & description
+// TODO: Add SimilarityLists
+// TODO: Add function to create "groups" of similar SimilarityItems from a SimilarityList
