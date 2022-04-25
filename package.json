@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/greencoder001/recommend-engine/issues"
   },
-  "homepage": "https://github.com/greencoder001/recommend-engine#readme"
+  "homepage": "https://github.com/greencoder001/recommend-engine#readme",
+  "dependencies": {
+    "string-similarity": "^4.0.4"
+  }
 }
